@@ -42,4 +42,4 @@ List creation is encouraged! The Pegasys team wants the community to develop the
 
 ## Adding Your Token Logo
 
-Avalanche token logos are [hosted here](https://github.com/pollum-io/tokens).
+Syscoin token logos are [hosted here](https://github.com/pollum-io/tokens).
