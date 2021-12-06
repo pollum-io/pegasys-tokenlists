@@ -1,0 +1,32 @@
+{
+    "name": "Syscoin Stablecoins",
+    "logoURI": "https://raw.githubusercontent.com/logo.png",
+    "keywords": [
+        "syscoin",
+        "stablecoin"
+    ],
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "timestamp": "2021-12-03T13:00:00+00:00",
+    "tokens": [
+        {
+            "address": "0x0000000000000000000000000000000000000bAe",
+            "chainId": 69420,
+            "name": "Bae Token",
+            "symbol": "BAE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/logo.png"
+        },
+        {
+            "address": "0x000000000000000000000000000000000000dEaD",
+            "chainId": 69420,
+            "name": "Dead Token",
+            "symbol": "DEAD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/logo.png"
+        }
+    ]
+}
