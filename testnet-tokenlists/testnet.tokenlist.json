@@ -45,7 +45,7 @@
       "address": "0xF2E3dA0701afb0127239604d331530fdc51030Ec",
       "chainId": 5700,
       "name": "Wrapped Bitcoin",
-      "symbol": "USDC",
+      "symbol": "WBTC",
       "decimals": 6,
       "logoURI": "https://github.com/Pollum-io/pegasys-tokens/blob/master/testnet-tokens/0xF2E3dA0701afb0127239604d331530fdc51030Ec/logo.png"
     },
