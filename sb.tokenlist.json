@@ -35,7 +35,7 @@
     },
     {
       "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
-      "chainId": 5700,
+      "chainId": 57,
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -43,7 +43,7 @@
     },
     {
       "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-      "chainId": 5700,
+      "chainId": 57,
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
