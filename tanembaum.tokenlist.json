@@ -46,7 +46,7 @@
       "chainId": 5700,
       "name": "Wrapped Ethereum",
       "symbol": "WETH",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0xcc9817d247eF742B9C22d8C4d7d44294BCbB65D8/logo.png"
     },
     {
@@ -54,7 +54,7 @@
       "chainId": 5700,
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0xF2E3dA0701afb0127239604d331530fdc51030Ec/logo.png"
     },
     {
