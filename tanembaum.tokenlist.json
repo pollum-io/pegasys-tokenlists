@@ -26,44 +26,44 @@
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x81821498cD456c9f9239010f3A9F755F3A38A778/logo.png"
     },
     {
-      "address": "0x4413C1982ea01C081fbCDd8943bc48601B1d3e57",
+      "address": "0x794f5a4d2912C0587E62C8e5742522ad6FA11aEb",
       "chainId": 5700,
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x4413C1982ea01C081fbCDd8943bc48601B1d3e57/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x794f5a4d2912C0587E62C8e5742522ad6FA11aEb/logo.png"
     },
     {
-      "address": "0x15C41816b86534D4Db011600A0CC40B6afF1B777",
+      "address": "0x9105B0a82Ea811047D828588D682F8284E3D4C56",
       "chainId": 5700,
       "name": "Tether",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x15C41816b86534D4Db011600A0CC40B6afF1B777/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x9105B0a82Ea811047D828588D682F8284E3D4C56/logo.png"
     },
     {
-      "address": "0xcc9817d247eF742B9C22d8C4d7d44294BCbB65D8",
+      "address": "0x2c81393C87E1f0C2Ec867C6729c7F9956B12A844",
       "chainId": 5700,
       "name": "Wrapped Ethereum",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0xcc9817d247eF742B9C22d8C4d7d44294BCbB65D8/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x2c81393C87E1f0C2Ec867C6729c7F9956B12A844/logo.png"
     },
     {
-      "address": "0xF2E3dA0701afb0127239604d331530fdc51030Ec",
+      "address": "0x30470dEca3fd983fF4780d1b0EB3d29de98E08B8",
       "chainId": 5700,
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0xF2E3dA0701afb0127239604d331530fdc51030Ec/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x30470dEca3fd983fF4780d1b0EB3d29de98E08B8/logo.png"
     },
     {
-      "address": "0x7fA81E94867C64dc16AfE02C9742658d5f00e8c2",
+      "address": "0xD512AF7da914f316030C7CEF80b409117F2d6c9F",
       "chainId": 5700,
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x7fA81E94867C64dc16AfE02C9742658d5f00e8c2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0xD512AF7da914f316030C7CEF80b409117F2d6c9F/logo.png"
     }
   ]
 }
