@@ -48,7 +48,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/tokens/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png"
-    }
+    },
     {
       "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
       "chainId": 57,
