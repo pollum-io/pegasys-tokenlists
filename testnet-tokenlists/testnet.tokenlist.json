@@ -1,5 +1,5 @@
 {
-  "name": "Standard Tanenbaum Tokens",
+  "name": "Tanenbaum Tokens",
   "logoURI": "https://github.com/Pollum-io/pegasys-tokenlists/tree/master/testnet-tokenlists/testnet-logos/sys.png",
   "keywords": ["syscoin", "defi", "dex", "tanenbaum", "testnet"],
   "version": {
