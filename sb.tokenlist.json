@@ -1,0 +1,53 @@
+{
+  "name": "SYS Bridge Tokens",
+  "logoURI": "https://raw.githubusercontent.com/logo.png",
+  "keywords": ["syscoin", "defi", "ethereum", "bridge"],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "timestamp": "2021-12-03T13:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+      "chainId": 57,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 6,
+      "logoURI": "https://github.com/Pollum-io/pegasys-tokens/blob/master/tokens/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055/logo.png"
+    },
+    {
+      "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+      "chainId": 57,
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://github.com/Pollum-io/pegasys-tokens/blob/master/tokens/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D/logo.png"
+    },
+    {
+      "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+      "chainId": 57,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://github.com/Pollum-io/pegasys-tokens/blob/master/tokens/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
+    },
+    {
+      "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+      "chainId": 5700,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://github.com/Pollum-io/pegasys-tokens/blob/master/tokens/0x922D641a426DcFFaeF11680e5358F34d97d112E1/logo.png"
+    },
+    {
+      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+      "chainId": 5700,
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://github.com/Pollum-io/pegasys-tokens/blob/master/testnet-tokens/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png"
+    }
+  ]
+}
