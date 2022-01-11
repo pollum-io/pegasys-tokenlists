@@ -9,10 +9,10 @@ Mainnet and testnet tokenlist registries are handled independently.
 ### General Requirements
 1. Token should be verified on the [block explorer](https://tanenbaum.io/).
 2. Token must be added to a list that it qualifies for:
-    * **[Top 20 Tokenlist](./top15.tokenlist.json)**: Token must be in the top 20 of eligible Syscoin tokens by marketcap.
-    * **[AB Tokenlist](./ab.tokenlist.json)**: Token must be bridgeable on the Syscoin Bridge.
+    <!-- * **[Top 20 Tokenlist](./top20.tokenlist.json)**: Token must be in the top 20 of eligible Syscoin tokens by marketcap. -->
+    * **[SB Tokenlist](./ab.tokenlist.json)**: Token must be bridgeable on the Syscoin Bridge.
     * **[DeFi Tokenlist](./defi.tokenlist.json)**: Token must be connected to a DeFi protocol running on Syscoin.
-    * **[Stablecoin Tokenlist](./stablecoin.tokenlist.json)**: Token must be a stablecoin.
+    * **[Tanembaum Tokenlist](./tanembaum.tokenlist.json)**: Token must be a Tanembaum Network token.
 
 ## Adding Your Token
 1. Add an entry in the `tokens` field of the appropriate tokenlist. Here is an example:
