@@ -62,7 +62,7 @@
       "chainId": 5700,
       "name": "DAI",
       "symbol": "DAI",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x2d2e508c8056c3D92745dC2C39E5Cc316de79C0F/logo.png"
     }
   ]
