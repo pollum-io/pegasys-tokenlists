@@ -1,7 +1,12 @@
 {
   "name": "SYS Bridge Tokens",
   "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/tokens/0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB/logo.png",
-  "keywords": ["syscoin", "defi", "ethereum", "bridge"],
+  "keywords": [
+    "syscoin",
+    "defi",
+    "ethereum",
+    "bridge"
+  ],
   "version": {
     "major": 0,
     "minor": 1,
@@ -56,6 +61,22 @@
       "symbol": "TUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/tokens/0x461d52769884ca6235B685EF2040F47d30C94EB5/logo.png"
+    },
+    {
+      "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+      "chainId": 57,
+      "name": "Binance-Peg BUSD Token",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/tokens/0x375488F097176507e39B9653b88FDc52cDE736Bf/logo.png"
+    },
+    {
+      "address": "0xf27Ee99622C3C9b264583dACB2cCE056e194494f",
+      "chainId": 57,
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/tokens/0xf27Ee99622C3C9b264583dACB2cCE056e194494f/logo.png"
     }
   ]
 }
