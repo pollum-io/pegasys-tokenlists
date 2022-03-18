@@ -21,12 +21,12 @@
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/tokens/0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB/logo.png"
     },
     {
-      "address": "0x32f8199e428117F5A037A56562bbBFca7d5328c9",
+      "address": "0xE18c200A70908c89fFA18C628fE1B83aC0065EA4",
       "chainId": 57,
       "name": "Pegasys",
       "symbol": "PSYS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/tokens/0x32f8199e428117F5A037A56562bbBFca7d5328c9/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/tokens/0xE18c200A70908c89fFA18C628fE1B83aC0065EA4/logo.png"
     }
   ]
 }
