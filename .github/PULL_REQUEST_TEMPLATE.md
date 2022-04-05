@@ -1,23 +1,21 @@
-THIS PROJECT IS IN MAINTENANCE MODE. We accept pull-requests for Bug Fixes **ONLY**. NO NEW FEATURES ACCEPTED!
+---
+name: Token Request
+about: Request a token addition
+title: 'Add {TOKEN_SYMBOL}: {TOKEN_NAME}'
+labels: token request
+assignees: ''
+---
 
-<!--- Provide a general summary of your changes in the Title above -->
+- [ ] I understand that token listing is not required to use the Pegasys Interface with a token.
+- [ ] I understand that filing an issue or adding liquidity does not guarantee addition to the Pegasys token list.
 
-## Description
-<!--- Describe your changes in detail -->
+**Please provide the following information for your token.**
 
-## Related Issue
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
+Token Address: 
+Token Name (from contract): 
+Token Decimals (from contract): 
+Token Symbol (from contract): 
+Pegasys Pair Address of Token: 
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
-
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
-
-## Screenshots (if appropriate):
+Link to the official homepage of token:
+Link to CoinMarketCap or CoinGecko page of token: 
