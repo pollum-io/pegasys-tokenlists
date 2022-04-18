@@ -1,13 +1,18 @@
 {
   "name": "Tanenbaum Tokens",
-  "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0xa66b2E50c2b805F31712beA422D0D9e7D0Fd0F35/logo.png",
-  "keywords": ["syscoin", "defi", "dex", "tanenbaum", "testnet"],
+  "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/testnet-logos/0xa66b2E50c2b805F31712beA422D0D9e7D0Fd0F35/logo.png",
+  "keywords": [
+    "syscoin",
+    "pegasys",
+    "tanenbaum",
+    "testnet"
+  ],
   "version": {
-    "major": 0,
-    "minor": 1,
+    "major": 7,
+    "minor": 0,
     "patch": 0
   },
-  "timestamp": "2021-12-03T13:00:00+00:00",
+  "timestamp": "2022-04-05T20:50:43+00:00",
   "tokens": [
     {
       "address": "0xa66b2E50c2b805F31712beA422D0D9e7D0Fd0F35",
@@ -15,7 +20,7 @@
       "name": "Wrapped Syscoin",
       "symbol": "WSYS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0xa66b2E50c2b805F31712beA422D0D9e7D0Fd0F35/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/testnet-logos/0xa66b2E50c2b805F31712beA422D0D9e7D0Fd0F35/logo.png"
     },
     {
       "address": "0x81821498cD456c9f9239010f3A9F755F3A38A778",
@@ -23,7 +28,7 @@
       "name": "Pegasys",
       "symbol": "PSYS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x81821498cD456c9f9239010f3A9F755F3A38A778/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/testnet-logos/0x81821498cD456c9f9239010f3A9F755F3A38A778/logo.png"
     },
     {
       "address": "0x510A5D64cCFBd50Ec42Fa400601a0fedf1d452bC",
@@ -31,7 +36,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x510A5D64cCFBd50Ec42Fa400601a0fedf1d452bC/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/testnet-logos/0x510A5D64cCFBd50Ec42Fa400601a0fedf1d452bC/logo.png"
     },
     {
       "address": "0x94c80b500C825F3030411a987b7EBb0A8f4adEa0",
@@ -39,7 +44,7 @@
       "name": "Tether",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x94c80b500C825F3030411a987b7EBb0A8f4adEa0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/testnet-logos/0x94c80b500C825F3030411a987b7EBb0A8f4adEa0/logo.png"
     },
     {
       "address": "0xE872a5deBaE33f9E11Fe9fD7C7d43be66d8C90C9",
@@ -47,7 +52,7 @@
       "name": "Wrapped Ethereum",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0xE872a5deBaE33f9E11Fe9fD7C7d43be66d8C90C9/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/testnet-logos/0xE872a5deBaE33f9E11Fe9fD7C7d43be66d8C90C9/logo.png"
     },
     {
       "address": "0x5f971686Ea09b26d34477cc08092fd2C5AD03Fb7",
@@ -55,7 +60,7 @@
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x5f971686Ea09b26d34477cc08092fd2C5AD03Fb7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/testnet-logos/0x5f971686Ea09b26d34477cc08092fd2C5AD03Fb7/logo.png"
     },
     {
       "address": "0x2d2e508c8056c3D92745dC2C39E5Cc316de79C0F",
@@ -63,7 +68,7 @@
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokens/master/testnet-tokens/0x2d2e508c8056c3D92745dC2C39E5Cc316de79C0F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/testnet-logos/0x2d2e508c8056c3D92745dC2C39E5Cc316de79C0F/logo.png"
     }
   ]
 }
