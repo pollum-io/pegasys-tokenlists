@@ -93,6 +93,14 @@
       "symbol": "PSYS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xE18c200A70908c89fFA18C628fE1B83aC0065EA4/logo.png"
+    },
+    {
+      "address": "0xb3d06b7d05969f806603702b084786e2abe63460",
+      "chainId": 57,
+      "name": "Suscoin",
+      "symbol": "SUS",
+      "decimals": 18,
+      "logoURI": "https://github.com/suscointoken/pegasys-tokenlists/blob/master/logos/0xB3d06b7d05969f806603702b084786e2ABe63460/logo.png"
     }
   ]
 }
