@@ -125,6 +125,14 @@
       "symbol": "AGEUR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xDAe6c2A48BFAA66b43815c5548b10800919c993E/logo.png"
+    },
+    {
+      "address": "0xD7c295E399CA928A3a14b01D760E794f1AdF8990",
+      "chainId": 57,
+      "name": "beefy.finance",
+      "symbol": "BIFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xDAe6c2A48BFAA66b43815c5548b10800919c993E/logo.png"
     }
   ]
 }
