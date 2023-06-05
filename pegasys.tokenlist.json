@@ -19,16 +19,16 @@
     {
       "address": "0x71319ee6F41598412701F0D3E987bb1D74921fb3",
       "chainId": 57,
-      "name": "Bitcoin",
-      "symbol": "BTC",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055/logo.png"
     },
     {
       "address": "0x15dC8168AA893ee5ABf46778AE99Fd7Ed9225914",
       "chainId": 57,
-      "name": "Ethereum",
-      "symbol": "ETH",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D/logo.png"
     },
