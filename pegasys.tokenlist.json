@@ -4,18 +4,20 @@
   "keywords": [
     "syscoin",
     "defi",
+    "nevm",
+    "layer 1",
     "psys",
     "pegasys"
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2022-04-05T20:50:43+00:00",
+  "timestamp": "2023-06-05T17:50:43+00:00",
   "tokens": [
     {
-      "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+      "address": "0x71319ee6F41598412701F0D3E987bb1D74921fb3",
       "chainId": 57,
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
@@ -23,7 +25,7 @@
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055/logo.png"
     },
     {
-      "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+      "address": "0x15dC8168AA893ee5ABf46778AE99Fd7Ed9225914",
       "chainId": 57,
       "name": "Wrapped Ethereum",
       "symbol": "WETH",
@@ -31,7 +33,7 @@
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D/logo.png"
     },
     {
-      "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+      "address": "0x3fCa6743e2fB55759FeE767f3a68B2c06D699dc4",
       "chainId": 57,
       "name": "USD Coin",
       "symbol": "USDC",
@@ -39,7 +41,7 @@
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
     },
     {
-      "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+      "address": "0xfe668A3d6f05e7799AAE04659fC274AC00d094c0",
       "chainId": 57,
       "name": "Tether USD",
       "symbol": "USDT",
@@ -47,36 +49,12 @@
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x922D641a426DcFFaeF11680e5358F34d97d112E1/logo.png"
     },
     {
-      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+      "address": "0x5B7f5628814C2E5D31c11d10cFE27c5CBCb174f7",
       "chainId": 57,
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png"
-    },
-    {
-      "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
-      "chainId": 57,
-      "name": "TrueUSD",
-      "symbol": "TUSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x461d52769884ca6235B685EF2040F47d30C94EB5/logo.png"
-    },
-    {
-      "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
-      "chainId": 57,
-      "name": "Binance-Peg BUSD Token",
-      "symbol": "BUSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x375488F097176507e39B9653b88FDc52cDE736Bf/logo.png"
-    },
-    {
-      "address": "0xf27Ee99622C3C9b264583dACB2cCE056e194494f",
-      "chainId": 57,
-      "name": "Binance Coin",
-      "symbol": "BNB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xf27Ee99622C3C9b264583dACB2cCE056e194494f/logo.png"
     },
     {
       "address": "0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB",
@@ -93,38 +71,6 @@
       "symbol": "PSYS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xE18c200A70908c89fFA18C628fE1B83aC0065EA4/logo.png"
-    },
-    {
-      "address": "0x5FaC65e7E5065B4B70c47d6A5cBAd9C0093e6cd3",
-      "chainId": 57,
-      "name": "QiDao",
-      "symbol": "QI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x5FaC65e7E5065B4B70c47d6A5cBAd9C0093e6cd3/logo.png"
-    },
-    {
-      "address": "0x2611FA1cae2a3E20Ed47fB1b293437c14f41B00f",
-      "chainId": 57,
-      "name": "Mai Stablecoin",
-      "symbol": "MAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x2611FA1cae2a3E20Ed47fB1b293437c14f41B00f/logo.png"
-    },
-    {
-      "address": "0x6b7a87899490EcE95443e979cA9485CBE7E71522",
-      "chainId": 57,
-      "name": "Luxy",
-      "symbol": "LUXY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x6b7a87899490EcE95443e979cA9485CBE7E71522/logo.png"
-    },
-    {
-      "address": "0xDAe6c2A48BFAA66b43815c5548b10800919c993E",
-      "chainId": 57,
-      "name": "agEUR",
-      "symbol": "AGEUR",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xDAe6c2A48BFAA66b43815c5548b10800919c993E/logo.png"
     }
   ]
 }
