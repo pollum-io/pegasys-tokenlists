@@ -22,7 +22,7 @@
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x71319ee6F41598412701F0D3E987bb1D74921fb3/logo.png"
     },
     {
       "address": "0x15dC8168AA893ee5ABf46778AE99Fd7Ed9225914",
@@ -30,7 +30,7 @@
       "name": "Wrapped Ethereum",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x15dC8168AA893ee5ABf46778AE99Fd7Ed9225914/logo.png"
     },
     {
       "address": "0x3fCa6743e2fB55759FeE767f3a68B2c06D699dc4",
@@ -38,7 +38,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x3fCa6743e2fB55759FeE767f3a68B2c06D699dc4/logo.png"
     },
     {
       "address": "0xfe668A3d6f05e7799AAE04659fC274AC00d094c0",
@@ -46,7 +46,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x922D641a426DcFFaeF11680e5358F34d97d112E1/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xfe668A3d6f05e7799AAE04659fC274AC00d094c0/logo.png"
     },
     {
       "address": "0x5B7f5628814C2E5D31c11d10cFE27c5CBCb174f7",
@@ -54,7 +54,7 @@
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x5B7f5628814C2E5D31c11d10cFE27c5CBCb174f7/logo.png"
     },
     {
       "address": "0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB",
